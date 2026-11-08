@@ -6,7 +6,7 @@
 # Platform    HackerRank
 # Language    python3
 # Status      Accepted
-# Submitted   2026-11-06, 08:03 p.m.
+# Submitted   2026-11-08, 11:06 p.m.
 # ──────────────────────────────────────────────────
 
 import numpy
